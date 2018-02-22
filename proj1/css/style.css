@@ -7,3 +7,9 @@ h1, p {
   margin-right:auto;
   margin-left:auto;
 }
+ul {
+  color: gold;
+}
+a {
+  color: white;
+}
